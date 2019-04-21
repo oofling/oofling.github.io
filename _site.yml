@@ -1,0 +1,12 @@
+name: "Save Me Coffee"
+navbar:
+  title: "Save Me Coffee"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+      
+output:
+  html_document:
+    theme: paper
